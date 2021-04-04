@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\c++\NNSU\╦шэхт └.┬\MKL\test\test\main.cpp(64): warning #1786: function "freopen" (declared at line 243 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h") was declared deprecated ("This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        freopen("input.txt", "r", stdin);
+        ^
+  
+D:\c++\NNSU\╦шэхт └.┬\MKL\test\test\main.cpp(65): warning #1786: function "freopen" (declared at line 243 of "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h") was declared deprecated ("This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.")
+        freopen("output.txt", "w", stdout);
+        ^
+  
